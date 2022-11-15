@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarolineAyoub8
-- 👀 I’m interested in Microsoft technologies
-- 🌱 I’m currently learning Full stack DotNet
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Frontend Web development
 - 💞️ I’m looking to collaborate on multiple projects 
 - 📫 How to reach me caroline_kamal_hakim@outlook.com
 
